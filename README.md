@@ -12,10 +12,14 @@ An example image you would pass it looks something like this
 
 The AImageFeeder.py will give you the perfect image every time with a screen resolution of 1920x1200
 
+- Please Keep in mind that the model currently only works with forehand and backhand shots from the baseline
+
 # Updates
 
 ## Version 4
 - ~1000 Training images.
+- Shots trained on: Forehand, Backhand
+- Court positions trained on: Baseline
 
 ## Contribution
 
