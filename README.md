@@ -18,17 +18,25 @@ Make sure to change the file paths in AImageFeeder.py!
 
 # Updates
 
+## Version 7
+- BIG Change in the preprocessing method.
+- ~2500 Training images.
+- Shots trained on: Forehand, Backhand
+- Court positions trained on: Baseline
+- Much better at generalizing court conditions.
+- Accuracy in real world applications: ~75%
+
 ## Version 5
 - ~1600 Training images.
 - Shots trained on: Forehand, Backhand
 - Court positions trained on: Baseline
-- Accuracy in real world applications: 87%
+- Accuracy in real world applications: ~87%
 
 ## Version 4
 - ~1000 Training images.
 - Shots trained on: Forehand, Backhand
 - Court positions trained on: Baseline
-- Accuracy in real world applications: 65%
+- Accuracy in real world applications: ~65%
 
 ## Contribution
 
